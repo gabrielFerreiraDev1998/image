@@ -1,0 +1,79 @@
+{
+    "produtos-slider": [
+        {   
+            "id": 1,
+            "name": "detox",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste1.jpeg?raw=true",
+            "alt": "Imagem Tereré Detox",
+            "title": "Tereré Detox",
+            "preco": "R$00,00"  
+        },
+        {   
+            "id": 2,
+            "name": "menta",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste2.jpeg?raw=true",
+            "alt": "Imagem Tereré De Menta",
+            "title": "Tereré De Menta",
+            "preco": "R$00,00"
+        },
+        {   
+            "id": 3,
+            "name": "energetico",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste3.jpeg?raw=true",
+            "alt": "Imagem Tereré De Energético",
+            "title": "Tereré De Energético",
+            "preco": "R$00,00"  
+        },
+        {   
+            "id": 4,
+            "name": "citrus",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste4.jpeg?raw=true",
+            "alt": "Imagem Tereré De Citrus",
+            "title": "Tereré De Citrus",
+            "preco": "R$00,00"
+        },
+        {   
+            "id": 5,
+            "name": "pura folha",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste5.jpeg?raw=true",
+            "alt": "Imagem Tereré Pura Folha",
+            "title": "Tereré Pura Folha",
+            "preco": "R$00,00"  
+        },
+        {   
+            "id": 6,
+            "name": "cereja ice",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste6.jpeg?raw=true",
+            "alt": "Imagem Tereré Cereja Ice",
+            "title": "Tereré Cereja Ice",
+            "preco": "R$00,00"
+        },
+        {   
+            "id": 7,
+            "name": "detox",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste7.jpeg?raw=true",
+            "alt": "Imagem Tereré De Detox - Carnaval",
+            "title": "Tereré De Detox - Carnaval",
+            "preco": "R$00,00"  
+        }
+    ],
+    
+    "produtos-main": [
+        {   
+            "id": 1,
+            "name": "detox",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste1.jpeg?raw=true",
+            "alt": "Imagem Tereré De Detox",
+            "title": "Tereré De Detox",
+            "preco": "R$00,00"  
+        },
+        {   
+            "id": 1,
+            "name": "menta",
+            "imagem": "https://github.com/gabrielFerreiraDev1998/image/blob/main/imagemTeste2.jpeg?raw=true",
+            "alt": "Imagem Tereré De Menta",
+            "title": "Tereré De Menta",
+            "preco": "R$00,00"
+        }
+    ]
+}
